@@ -1,0 +1,16 @@
+ul{
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    
+}
+
+ul a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 14px 16px;
+
+}
+body{
+    margin: 0 50px;
+}
